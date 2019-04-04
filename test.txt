@@ -1,0 +1,11 @@
+{
+	"name": "My DApp",
+	"owner_id": "5asdfasdfadsf",
+	"abi": "armeabi armeabi-v7a",
+	"bin": "/user/EVM/bin/",
+	"bin_runtime": "Ethereum virtual machine(EVM)",
+	"tx_hash": "bacc82b32fe8b8b45c9225f129196943",
+	"contract_addr": "http://localhost:3000/api/Ethereum",
+	"deployed_time": 181023947859827
+}
+	
